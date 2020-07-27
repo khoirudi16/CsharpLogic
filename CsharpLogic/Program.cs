@@ -33,7 +33,7 @@ namespace CsharpLogic
             //Console.WriteLine(SumOfDigit.GetSumOfDigitByLinq(digit));
             #endregion
 
-            #region Decimal To Binary
+            #region 8. Decimal To Binary
             string result = DecimalToBinary.ConvertDecimalToBinary(4);
             Console.WriteLine(result);
             #endregion
