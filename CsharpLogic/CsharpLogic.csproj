@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Armstrong.cs" />
+    <Compile Include="DecimalBinary.cs" />
     <Compile Include="Factorial.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
