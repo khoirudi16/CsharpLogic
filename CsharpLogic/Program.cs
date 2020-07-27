@@ -54,7 +54,14 @@ namespace CsharpLogic
             #endregion
 
             #region 12. Remove Duplicate Char
-            Console.WriteLine(DuplicateCharacters.RemoveCharacterByLinq("Google"));
+            //Console.WriteLine(DuplicateCharacters.RemoveCharacterByLinq("Google"));
+            #endregion
+
+            #region 13. Possibility String Combination
+            //foreach(var item in PossibleSubstring.PossibleStringNormal("ABC"))
+            //{
+            //    Console.WriteLine(item);
+            //}
             #endregion
 
             Console.ReadKey();
