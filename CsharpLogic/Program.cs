@@ -10,6 +10,9 @@ namespace CsharpLogic
     {
         static void Main(string[] args)
         {
+            /*
+             * Code By : Muhammad Khoirudin
+             */
             #region 5. Armstrong Number
             //int number = 153;
             //bool is_armsrong = Armstrong.IsArmstrongWithoutString(number);
