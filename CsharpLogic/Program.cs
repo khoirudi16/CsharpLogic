@@ -33,15 +33,28 @@ namespace CsharpLogic
             //Console.WriteLine(SumOfDigit.GetSumOfDigitByLinq(digit));
             #endregion
 
-
             #region 8. Decimal To Binary
-            string result = DecimalToBinary.ConvertDecimalToBinary(4);
-            Console.WriteLine(result);
+            //string result = DecimalToBinary.ConvertDecimalToBinary(4);
+            //Console.WriteLine(result);
+            #endregion
 
             #region 9. Binnary To Decimal
-            int result_decimal = BinaryToDecimal.ConvertBinaryToDecimal(100);
-            Console.WriteLine(result_decimal);
+            //int result_decimal = BinaryToDecimal.ConvertBinaryToDecimal(100);
+            //Console.WriteLine(result_decimal);
+            #endregion
 
+            #region 10. Reverse String
+            //string result_reverse = ReverseString.ReverseStringMethod("khoir");
+            //Console.WriteLine(result_reverse);
+            #endregion
+
+            #region 11. Reverse Word
+            //string result_word = ReverseWord.ReverseWordByLinq("Welcome To Dotnet Tutorials");
+            //Console.WriteLine(result_word);
+            #endregion
+
+            #region 12. Remove Duplicate Char
+            Console.WriteLine(DuplicateCharacters.RemoveCharacterByLinq("Google"));
             #endregion
 
             Console.ReadKey();
