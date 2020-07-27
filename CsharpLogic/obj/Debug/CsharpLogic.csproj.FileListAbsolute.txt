@@ -1,0 +1,7 @@
+E:\NET\Csharp\CsharpLogic\CsharpLogic\obj\Debug\CsharpLogic.csprojAssemblyReference.cache
+E:\NET\Csharp\CsharpLogic\CsharpLogic\obj\Debug\CsharpLogic.csproj.CoreCompileInputs.cache
+E:\NET\Csharp\CsharpLogic\CsharpLogic\bin\Debug\CsharpLogic.exe.config
+E:\NET\Csharp\CsharpLogic\CsharpLogic\bin\Debug\CsharpLogic.exe
+E:\NET\Csharp\CsharpLogic\CsharpLogic\bin\Debug\CsharpLogic.pdb
+E:\NET\Csharp\CsharpLogic\CsharpLogic\obj\Debug\CsharpLogic.exe
+E:\NET\Csharp\CsharpLogic\CsharpLogic\obj\Debug\CsharpLogic.pdb
