@@ -12,6 +12,7 @@ namespace CsharpLogic
         {
             /*
              * Code By : Muhammad Khoirudin
+             * Profesi : .Net Developer
              */
             #region 5. Armstrong Number
             //int number = 153;
