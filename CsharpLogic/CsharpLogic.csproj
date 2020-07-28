@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AngleClock.cs" />
     <Compile Include="Armstrong.cs" />
     <Compile Include="Arrays.cs" />
     <Compile Include="BinaryToDecimal.cs" />
