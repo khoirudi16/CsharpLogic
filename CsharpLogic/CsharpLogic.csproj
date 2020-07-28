@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Armstrong.cs" />
+    <Compile Include="Arrays.cs" />
     <Compile Include="BinaryToDecimal.cs" />
     <Compile Include="DecimalToBinary.cs" />
     <Compile Include="DuplicateCharacters.cs" />
