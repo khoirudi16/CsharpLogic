@@ -71,8 +71,14 @@ namespace CsharpLogic
             #endregion
 
             #region 15. Angle O'clock
-            double degree = AngleClock.FindAngleClockByMinutesHour(30, 9);
-            Console.WriteLine(degree);
+            //double degree = AngleClock.FindAngleClockByMinutesHour(30, 9);
+            //Console.WriteLine(degree);
+            #endregion
+
+            #region 16. Bubble Sort
+            int[] data = new int[3] {3, 2, 1};
+            string sort = BubbleSort.SortingByBubbleSort(data);
+            Console.WriteLine(sort);
             #endregion
 
             Console.ReadKey();
