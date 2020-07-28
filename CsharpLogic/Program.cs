@@ -64,6 +64,12 @@ namespace CsharpLogic
             //}
             #endregion
 
+            #region 14. Array Rotation
+            int[] data = new int[6] { 1, 2, 3, 4, 5, 6 };
+            string left_rotate = Arrays.RightRotation(1, data);
+            Console.WriteLine(left_rotate);
+            #endregion
+
             Console.ReadKey();
         }
     }
